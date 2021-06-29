@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Diet">
+        <item>Lose Weigth</item>
+        <item>Gain Weigth</item>
+    </string-array>
+</resources>
